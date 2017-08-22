@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="IPEAS_UI_Automation">
+	<parameter name="appURL"
+		value="http://dnvrco-vm-coeddev01.conops.timewarnercable.com/" />
+	<parameter name="driverPath" value="M:\\NeonWorkspace\\chrome_2.28\\chromedriver.exe" />
+	<parameter name="monroeUrl" value="http://71.74.189.206/" />
+	<parameter name="splunkUrl" value="http://71.74.180.249:8000/" />
+	<parameter name="glueServerUrl" value="http://71.74.189.207/glue-server-monitor" />
+	<parameter name="MonitoringStagingServerUrl" value="http://71.74.177.165/ipeas-monitoring" />
+	<parameter name="browserType" value="chrome" />
+	<test name="Regression_Suite">
+	<classes>
+		<!-- <class name="com.ipeas.verifysnmp.automation.ServerStatusTests" /> -->
+		<!-- <class name="com.ipeas.alerts.VPNSFailoverTest" /> -->
+		<class name="com.ipeas.verifysnmp.automation.SnmpTrapForVpnsTests" />
+		<!-- <class name="com.ipeas.alerts.CDNFailoverTest" />
+		<class name="com.ipeas.verifysnmp.automation.CdnSnmpTrapTests" />
+		<class name="com.ipeas.alerts.PeerFailureTest" />
+		<class name="com.ipeas.verifysnmp.automation.PeerFailureSnmpTests" />
+		<class name="com.ipeas.alerts.DatabaseFailoverTests" />
+		<class name="com.ipeas.verifysnmp.automation.HttpSnmpTrapTests" />
+		<class name="com.ipeas.verifysnmp.automation.MysqlSnmpTrapTests" />
+		<class name="com.ipeas.verifysnmp.automation.JettySnmpTrapTests" />
+		<class name="com.ipeas.verifysnmp.automation.NTPSnmpTrapTests" />
+		<class name="com.ipeas.verifysnmp.automation.HttpSnmpTrapTestsForWest" />
+		<class name="com.ipeas.verifysnmp.automation.MysqlSnmpTrapTestsForWest" />
+		<class name="com.ipeas.verifysnmp.automation.JettySnmpTrapTestsForWest" /> -->
+		<!-- <class name="com.ipeas.verifysnmp.automation.NTPSnmpTrapTestsForWest" /> -->
+			
+			<!-- <class name="com.ipeas.alerts.CollectorTests" /> 
+			<class name="com.ipeas.alerts.GlueServerAlertTests" />
+			<class name="com.ipeas.alerts.MonitoringAlertTests" /> 
+			<class name="com.ipeas.monitoring.ui.automation.MonitoringUrlTest"/>
+			<class name="com.ipeas.monitoring.ui.automation.TestIpeasReportTab" /> 
+			<class name="com.ipeas.monitoring.ui.automation.TestIpeasFailedTab" /> 
+			<class name="com.ipeas.monitoring.ui.automation.TestViewEditFipsCodeTab" /> 
+			<class name="com.ipeas.monitoring.ui.automation.TestGlueServerURLTab" />
+			<class name="com.ipeas.monitoring.ui.automation.TestMonitoringStatus" /> 
+			<class name="com.ipeas.monitoring.ui.automation.TestSearchFipsCodeInIpeasReport" /> 
+			<class name="com.ipeas.monitoring.ui.automation.TestSearchEasCodeInIpeasReport"/> 
+			<class name="com.ipeas.monitoring.ui.automation.TestSearchDateInIpeasReport"/>
+			<class name="com.ipeas.monitoring.ui.automation.TestSearchFipsCodeInFailedTab" /> 
+			<class name="com.ipeas.monitoring.ui.automation.TestSearchEasCodeInFailedTab" /> 
+			<class name="com.ipeas.monitoring.ui.automation.TestSearchDateInFailedTab" /> 
+			<class name="com.ipeas.monitoring.ui.automation.TestSearchFipsCodeInViewEditTab" />
+			<class name="com.ipeas.monitoring.ui.automation.TestDeleteFipsCode" /> 
+			<class name="com.ipeas.monitoring.ui.automation.TestAddFipsCode" /> 
+			<class name="com.ipeas.monitoring.ui.automation.TestGlueServerURLTab" /> 
+			<class name="com.ipeas.glueserver.UI.automation.TestGluesServerUI" /> 
+			<class name="com.ipeas.glueserver.UI.automation.TestGlueServerVersion"/> 
+			<class name="com.ipeas.glueserver.UI.automation.TestGlueServerVpnsUrl" /> 
+			<class name="com.ipeas.glueserver.UI.automation.TestGlueServerCDNUrl"/>
+			<class name="com.ipeas.glueserver.UI.automation.TestSearchAlertIDInFailedTab" /> 
+			<class name="com.ipeas.glueserver.UI.automation.TestSearchFipsCodeInFailedTab" /> 
+			<class name="com.ipeas.glueserver.UI.automation.TestSearchFailureTypeCDNInFailedTab" />
+			<class name="com.ipeas.glueserver.UI.automation.TestSearchFailureTypeExpireInFailedTab"/>
+			<class name="com.ipeas.glueserver.UI.automation.TestSearchFailureTypeVpnsInFailedTab"/>
+			<class name="com.ipeas.glueserver.UI.automation.TestSearchFipsCodeInProcessedTab"/> 
+			<class name="com.ipeas.glueserver.UI.automation.TestSearchAlertIDInProcessedTab" /> -->
+		</classes>
+	</test>
+</suite>

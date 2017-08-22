@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="IPEAS_UI_Automation" duration-ms="54799" started-at="2017-03-27T09:30:21Z" finished-at="2017-03-27T09:31:16Z">
+    <groups>
+    </groups>
+    <test name="Regression_Suite" duration-ms="54799" started-at="2017-03-27T09:30:21Z" finished-at="2017-03-27T09:31:16Z">
+      <class name="com.ipeas.verifysnmp.automation.SnmpTrapForVpnsTests">
+        <test-method status="PASS" signature="launchBrowser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ipeas.verifysnmp.automation.SnmpTrapForVpnsTests@78c730]" name="launchBrowser" is-config="true" duration-ms="38708" started-at="2017-03-27T15:00:21Z" finished-at="2017-03-27T15:01:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://71.74.180.249:8000/]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[M:\\NeonWorkspace\\chrome_2.28\\chromedriver.exe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="checkVPNSTrap()[pri:0, instance:com.ipeas.verifysnmp.automation.SnmpTrapForVpnsTests@78c730]" name="checkVPNSTrap" duration-ms="16069" started-at="2017-03-27T15:01:00Z" finished-at="2017-03-27T15:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkVPNSTrap -->
+      </class> <!-- com.ipeas.verifysnmp.automation.SnmpTrapForVpnsTests -->
+    </test> <!-- Regression_Suite -->
+  </suite> <!-- IPEAS_UI_Automation -->
+</testng-results>

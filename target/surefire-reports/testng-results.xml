@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="IPEAS_UI_Automation" duration-ms="697977" started-at="2017-03-27T09:03:11Z" finished-at="2017-03-27T09:14:48Z">
+    <groups>
+    </groups>
+    <test name="Regression_Suite" duration-ms="697977" started-at="2017-03-27T09:03:11Z" finished-at="2017-03-27T09:14:48Z">
+      <class name="com.ipeas.verifysnmp.automation.CdnSnmpTrapTests">
+        <test-method status="PASS" signature="checkCDNTrap()[pri:0, instance:com.ipeas.verifysnmp.automation.CdnSnmpTrapTests@7471b5]" name="checkCDNTrap" duration-ms="14334" started-at="2017-03-27T14:38:46Z" finished-at="2017-03-27T14:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCDNTrap -->
+      </class> <!-- com.ipeas.verifysnmp.automation.CdnSnmpTrapTests -->
+      <class name="com.ipeas.verifysnmp.automation.HttpSnmpTrapTests">
+        <test-method status="PASS" signature="checkHttpTrap()[pri:0, instance:com.ipeas.verifysnmp.automation.HttpSnmpTrapTests@157f54e]" name="checkHttpTrap" duration-ms="30911" started-at="2017-03-27T14:41:20Z" finished-at="2017-03-27T14:41:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHttpTrap -->
+      </class> <!-- com.ipeas.verifysnmp.automation.HttpSnmpTrapTests -->
+      <class name="com.ipeas.verifysnmp.automation.PeerFailureSnmpTests">
+        <test-method status="PASS" signature="checkPeerFailureSnmp()[pri:0, instance:com.ipeas.verifysnmp.automation.PeerFailureSnmpTests@1143ee9]" name="checkPeerFailureSnmp" duration-ms="13026" started-at="2017-03-27T14:41:07Z" finished-at="2017-03-27T14:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPeerFailureSnmp -->
+      </class> <!-- com.ipeas.verifysnmp.automation.PeerFailureSnmpTests -->
+      <class name="com.ipeas.alerts.VPNSFailoverTest">
+        <test-method status="PASS" signature="loadProperties()[pri:0, instance:com.ipeas.alerts.VPNSFailoverTest@3e6358]" name="loadProperties" is-config="true" duration-ms="2" started-at="2017-03-27T14:35:00Z" finished-at="2017-03-27T14:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadProperties -->
+        <test-method status="PASS" signature="restartServers()[pri:0, instance:com.ipeas.alerts.VPNSFailoverTest@3e6358]" name="restartServers" is-config="true" duration-ms="31485" started-at="2017-03-27T14:35:00Z" finished-at="2017-03-27T14:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restartServers -->
+        <test-method status="PASS" signature="testVPNSFailure()[pri:0, instance:com.ipeas.alerts.VPNSFailoverTest@3e6358]" name="testVPNSFailure" duration-ms="23419" started-at="2017-03-27T14:35:32Z" finished-at="2017-03-27T14:35:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVPNSFailure -->
+        <test-method status="PASS" signature="restoreServers()[pri:0, instance:com.ipeas.alerts.VPNSFailoverTest@3e6358]" name="restoreServers" is-config="true" duration-ms="21529" started-at="2017-03-27T14:35:55Z" finished-at="2017-03-27T14:36:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restoreServers -->
+      </class> <!-- com.ipeas.alerts.VPNSFailoverTest -->
+      <class name="com.ipeas.alerts.CDNFailoverTest">
+        <test-method status="PASS" signature="loadProperties()[pri:0, instance:com.ipeas.alerts.CDNFailoverTest@1b52d12]" name="loadProperties" is-config="true" duration-ms="2" started-at="2017-03-27T14:37:29Z" finished-at="2017-03-27T14:37:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadProperties -->
+        <test-method status="PASS" signature="restartServers()[pri:0, instance:com.ipeas.alerts.CDNFailoverTest@1b52d12]" name="restartServers" is-config="true" duration-ms="31585" started-at="2017-03-27T14:37:29Z" finished-at="2017-03-27T14:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restartServers -->
+        <test-method status="PASS" signature="testCDNFailure()[pri:0, instance:com.ipeas.alerts.CDNFailoverTest@1b52d12]" name="testCDNFailure" duration-ms="23738" started-at="2017-03-27T14:38:01Z" finished-at="2017-03-27T14:38:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCDNFailure -->
+        <test-method status="PASS" signature="restoreServers()[pri:0, instance:com.ipeas.alerts.CDNFailoverTest@1b52d12]" name="restoreServers" is-config="true" duration-ms="21488" started-at="2017-03-27T14:38:24Z" finished-at="2017-03-27T14:38:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restoreServers -->
+      </class> <!-- com.ipeas.alerts.CDNFailoverTest -->
+      <class name="com.ipeas.alerts.PeerFailureTest">
+        <test-method status="PASS" signature="loadProperties()[pri:0, instance:com.ipeas.alerts.PeerFailureTest@837a77]" name="loadProperties" is-config="true" duration-ms="2" started-at="2017-03-27T14:39:00Z" finished-at="2017-03-27T14:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadProperties -->
+        <test-method status="PASS" signature="restartServers()[pri:0, instance:com.ipeas.alerts.PeerFailureTest@837a77]" name="restartServers" is-config="true" duration-ms="31486" started-at="2017-03-27T14:39:00Z" finished-at="2017-03-27T14:39:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restartServers -->
+        <test-method status="PASS" signature="testPeerFailure()[pri:0, instance:com.ipeas.alerts.PeerFailureTest@837a77]" name="testPeerFailure" duration-ms="74228" started-at="2017-03-27T14:39:32Z" finished-at="2017-03-27T14:40:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPeerFailure -->
+        <test-method status="PASS" signature="restoreServers()[pri:0, instance:com.ipeas.alerts.PeerFailureTest@837a77]" name="restoreServers" is-config="true" duration-ms="21548" started-at="2017-03-27T14:40:46Z" finished-at="2017-03-27T14:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restoreServers -->
+      </class> <!-- com.ipeas.alerts.PeerFailureTest -->
+      <class name="com.ipeas.verifysnmp.automation.JettySnmpTrapTestsForWest">
+        <test-method status="PASS" signature="checkJettyTrap()[pri:0, instance:com.ipeas.verifysnmp.automation.JettySnmpTrapTestsForWest@1554825]" name="checkJettyTrap" duration-ms="38052" started-at="2017-03-27T14:44:10Z" finished-at="2017-03-27T14:44:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkJettyTrap -->
+      </class> <!-- com.ipeas.verifysnmp.automation.JettySnmpTrapTestsForWest -->
+      <class name="com.ipeas.verifysnmp.automation.HttpSnmpTrapTestsForWest">
+        <test-method status="PASS" signature="checkHttpTrap()[pri:0, instance:com.ipeas.verifysnmp.automation.HttpSnmpTrapTestsForWest@7f6473]" name="checkHttpTrap" duration-ms="35067" started-at="2017-03-27T14:42:57Z" finished-at="2017-03-27T14:43:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHttpTrap -->
+      </class> <!-- com.ipeas.verifysnmp.automation.HttpSnmpTrapTestsForWest -->
+      <class name="com.ipeas.verifysnmp.automation.MysqlSnmpTrapTests">
+        <test-method status="PASS" signature="checkMysqlTrap()[pri:0, instance:com.ipeas.verifysnmp.automation.MysqlSnmpTrapTests@1975490]" name="checkMysqlTrap" duration-ms="33970" started-at="2017-03-27T14:41:51Z" finished-at="2017-03-27T14:42:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMysqlTrap -->
+      </class> <!-- com.ipeas.verifysnmp.automation.MysqlSnmpTrapTests -->
+      <class name="com.ipeas.verifysnmp.automation.MysqlSnmpTrapTestsForWest">
+        <test-method status="PASS" signature="checkMysqlTrap()[pri:0, instance:com.ipeas.verifysnmp.automation.MysqlSnmpTrapTestsForWest@167135c]" name="checkMysqlTrap" duration-ms="37901" started-at="2017-03-27T14:43:33Z" finished-at="2017-03-27T14:44:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMysqlTrap -->
+      </class> <!-- com.ipeas.verifysnmp.automation.MysqlSnmpTrapTestsForWest -->
+      <class name="com.ipeas.verifysnmp.automation.JettySnmpTrapTests">
+        <test-method status="PASS" signature="checkJettyTrap()[pri:0, instance:com.ipeas.verifysnmp.automation.JettySnmpTrapTests@136f0f5]" name="checkJettyTrap" duration-ms="32171" started-at="2017-03-27T14:42:25Z" finished-at="2017-03-27T14:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkJettyTrap -->
+      </class> <!-- com.ipeas.verifysnmp.automation.JettySnmpTrapTests -->
+      <class name="com.ipeas.verifysnmp.automation.ServerStatusTests">
+        <test-method status="PASS" signature="loadProperties()[pri:0, instance:com.ipeas.verifysnmp.automation.ServerStatusTests@10f6bfd]" name="loadProperties" is-config="true" duration-ms="349" started-at="2017-03-27T14:33:11Z" finished-at="2017-03-27T14:33:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadProperties -->
+        <test-method status="PASS" signature="restartServers()[pri:0, instance:com.ipeas.verifysnmp.automation.ServerStatusTests@10f6bfd]" name="restartServers" is-config="true" duration-ms="31704" started-at="2017-03-27T14:33:11Z" finished-at="2017-03-27T14:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restartServers -->
+        <test-method status="PASS" signature="testEastServerStatus()[pri:0, instance:com.ipeas.verifysnmp.automation.ServerStatusTests@10f6bfd]" name="testEastServerStatus" duration-ms="692" started-at="2017-03-27T14:33:43Z" finished-at="2017-03-27T14:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEastServerStatus -->
+        <test-method status="PASS" signature="restoreServers()[pri:0, instance:com.ipeas.verifysnmp.automation.ServerStatusTests@10f6bfd]" name="restoreServers" is-config="true" duration-ms="21557" started-at="2017-03-27T14:33:43Z" finished-at="2017-03-27T14:34:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restoreServers -->
+        <test-method status="PASS" signature="restartServers()[pri:0, instance:com.ipeas.verifysnmp.automation.ServerStatusTests@10f6bfd]" name="restartServers" is-config="true" duration-ms="31553" started-at="2017-03-27T14:34:05Z" finished-at="2017-03-27T14:34:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restartServers -->
+        <test-method status="PASS" signature="testWestServerStatus()[pri:0, instance:com.ipeas.verifysnmp.automation.ServerStatusTests@10f6bfd]" name="testWestServerStatus" duration-ms="627" started-at="2017-03-27T14:34:36Z" finished-at="2017-03-27T14:34:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWestServerStatus -->
+        <test-method status="PASS" signature="restoreServers()[pri:0, instance:com.ipeas.verifysnmp.automation.ServerStatusTests@10f6bfd]" name="restoreServers" is-config="true" duration-ms="23184" started-at="2017-03-27T14:34:37Z" finished-at="2017-03-27T14:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restoreServers -->
+      </class> <!-- com.ipeas.verifysnmp.automation.ServerStatusTests -->
+      <class name="com.ipeas.verifysnmp.automation.SnmpTrapForVpnsTests">
+        <test-method status="PASS" signature="launchBrowser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ipeas.verifysnmp.automation.SnmpTrapForVpnsTests@1e46e8f]" name="launchBrowser" is-config="true" duration-ms="57186" started-at="2017-03-27T14:36:17Z" finished-at="2017-03-27T14:37:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://71.74.180.249:8000/]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[M:\\NeonWorkspace\\chrome_2.28\\chromedriver.exe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="checkVPNSTrap()[pri:0, instance:com.ipeas.verifysnmp.automation.SnmpTrapForVpnsTests@1e46e8f]" name="checkVPNSTrap" duration-ms="15143" started-at="2017-03-27T14:37:14Z" finished-at="2017-03-27T14:37:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkVPNSTrap -->
+      </class> <!-- com.ipeas.verifysnmp.automation.SnmpTrapForVpnsTests -->
+    </test> <!-- Regression_Suite -->
+  </suite> <!-- IPEAS_UI_Automation -->
+</testng-results>

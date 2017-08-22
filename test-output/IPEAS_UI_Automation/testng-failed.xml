@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [IPEAS_UI_Automation]">
+  <parameter name="glueServerUrl" value="http://71.74.189.207/glue-server-monitor"/>
+  <parameter name="monroeUrl" value="http://71.74.189.206/"/>
+  <parameter name="splunkUrl" value="http://71.74.180.249:8000/"/>
+  <parameter name="MonitoringStagingServerUrl" value="http://71.74.177.165/ipeas-monitoring"/>
+  <parameter name="driverPath" value="M:\\NeonWorkspace\\chrome_2.28\\chromedriver.exe"/>
+  <parameter name="appURL" value="http://dnvrco-vm-coeddev01.conops.timewarnercable.com/"/>
+  <parameter name="browserType" value="chrome"/>
+  <test name="Regression_Suite(failed)">
+    <classes>
+      <class name="com.ipeas.alerts.VPNSFailoverTest">
+        <methods>
+          <include name="restartServers"/>
+          <include name="restoreServers"/>
+          <include name="loadProperties"/>
+        </methods>
+      </class> <!-- com.ipeas.alerts.VPNSFailoverTest -->
+      <class name="com.ipeas.verifysnmp.automation.SnmpTrapForVpnsTests">
+        <methods>
+          <include name="checkVPNSTrap"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- com.ipeas.verifysnmp.automation.SnmpTrapForVpnsTests -->
+    </classes>
+  </test> <!-- Regression_Suite(failed) -->
+</suite> <!-- Failed suite [IPEAS_UI_Automation] -->

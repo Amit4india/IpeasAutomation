@@ -1,0 +1,175 @@
+ INFO 2017-03-27 12:45:40,595 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 12:45:40,598 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 12:45:40,600 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 12:45:40,616 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 12:45:40,616 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 12:45:40,650 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 12:46:34,591 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 12:46:34,591 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 12:46:34,592 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 12:47:28,197 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 12:47:28,197 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 12:47:28,198 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 12:47:28,198 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 12:47:28,198 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 12:47:28,199 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 12:48:38,978 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 12:48:38,980 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 12:48:38,981 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 12:48:38,982 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 12:48:38,982 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 12:48:38,983 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 12:49:33,125 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 12:49:33,126 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 12:49:33,127 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 12:50:41,699 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 12:50:41,700 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 12:50:41,700 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 12:50:41,701 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 12:50:41,701 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 12:50:41,702 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 12:51:13,167 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 12:51:13,167 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 12:51:13,167 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 12:51:43,351 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 12:51:43,352 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 12:51:43,358 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 12:51:43,359 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 12:51:43,359 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 12:51:43,359 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 12:52:14,718 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 12:52:14,718 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 12:52:14,719 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 13:15:03,672 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 13:15:03,675 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 13:15:03,676 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 13:15:03,689 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 13:15:03,689 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 13:15:03,690 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 13:15:57,931 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 13:15:57,931 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 13:15:57,932 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 13:16:51,508 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 13:16:51,508 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 13:16:51,509 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 13:16:51,510 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 13:16:51,510 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 13:16:51,511 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 13:18:08,165 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 13:18:08,166 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 13:18:08,167 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 13:19:04,669 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 13:19:04,670 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 13:19:04,670 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 13:19:04,671 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 13:19:04,671 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 13:19:04,672 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 13:19:36,259 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 13:19:36,260 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 13:19:36,260 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 13:20:31,658 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 13:20:31,658 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 13:20:31,658 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 13:20:31,659 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 13:20:31,659 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 13:20:31,660 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 13:21:03,281 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 13:21:03,281 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 13:21:03,282 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:06:52,949 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:06:52,953 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:06:52,954 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:06:52,957 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:06:52,957 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:06:52,958 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:07:47,415 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:07:47,415 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:07:47,416 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:08:41,008 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:08:41,009 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:08:41,010 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:08:41,010 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:08:41,011 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:08:41,016 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:09:57,577 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:09:57,581 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:09:57,581 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:11:34,174 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:11:34,174 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:11:34,175 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:11:34,175 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:11:34,175 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:11:34,176 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:12:05,832 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:12:05,832 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:12:05,833 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:13:03,578 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:13:03,578 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:13:03,579 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:13:03,579 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:13:03,580 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:13:03,580 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:13:35,224 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:13:35,224 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:13:35,226 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:33:11,355 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:33:11,367 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:33:11,368 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:33:11,388 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:33:11,389 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:33:11,389 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:34:05,342 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:34:05,342 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:34:05,343 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:35:00,709 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:35:00,709 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:35:00,710 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:35:00,711 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:35:00,711 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:35:00,712 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:36:17,149 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:36:17,151 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:36:17,152 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:37:29,475 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:37:29,475 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:37:29,476 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:37:29,478 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:37:29,478 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:37:29,480 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:38:01,063 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:38:01,063 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:38:01,064 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:39:00,622 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:39:00,623 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:39:00,624 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:39:00,625 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:39:00,625 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:39:00,626 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:39:32,111 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:39:32,111 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:39:32,112 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:50:58,132 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:50:58,135 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:50:58,137 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:50:58,140 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:50:58,140 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:50:58,142 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:51:52,038 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:51:52,038 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:51:52,044 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:52:54,806 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:52:54,809 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:52:54,811 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:52:54,815 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:52:54,815 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:52:54,817 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:54:11,361 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:54:11,361 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:54:11,362 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 14:58:54,350 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 14:58:54,352 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 14:58:54,354 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+  INFO 2017-03-27 15:00:21,685 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-03-27 15:00:21,688 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-03-27 15:00:21,690 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+ 

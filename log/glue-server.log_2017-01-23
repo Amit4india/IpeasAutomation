@@ -1,0 +1,4 @@
+ INFO 2017-01-23 19:16:07,507 [GlueServerConfig] processConfig [main] : Loading Properties from src/main/resources/resources.properties 
+  INFO 2017-01-23 19:16:07,511 [GlueServerConfig] processConfig [main] : Opening configuration file (src/main/resources/resources.properties)
+  INFO 2017-01-23 19:16:07,518 [GlueServerConfig] readPropertiesFile [main] : Checking for valid configuration settings
+ 
